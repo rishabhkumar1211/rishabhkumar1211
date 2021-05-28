@@ -20,7 +20,7 @@ I am a passionate MERN Developer(Soon a full Devloper) 🌐 , Competitive Progra
 <p align="left">
 <a href="https://github.com/rishabhkumar1211" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="github" width="40" height="40"/> </a> 
 <a href="https://www.linkedin.com/in/rishabh-kumar-1a6278198/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="linkedin" width="40" height="40"/> </a> 
-<a href="https://twitter.com/home" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />" alt="twitter" width="40" height="40"/> </a> 
+<a href="https://twitter.com/home" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" width="40" height="40"/> </a> 
 </p>
 
 ### 🔨 Languages and Tools:
